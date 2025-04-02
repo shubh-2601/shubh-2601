@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shubh-2601
 - 👀 I’m interested in Website Devlopment and Machine Learning
 - 🌱 I’m currently learning Web Devlopment and DSA
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ->  📧: shubh6328@gmail.com
+
